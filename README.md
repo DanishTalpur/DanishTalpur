@@ -1,4 +1,4 @@
-## About Me
+## Hey there!💪
 
 I’m **Danish**, a Machine Learning Engineer and Data Scientist from **Karachi, Pakistan**. I specialize in building intelligent systems using Python, deep learning frameworks like TensorFlow and PyTorch, data analysis tools such as pandas and NumPy, and computer vision applications with OpenCV.
 
