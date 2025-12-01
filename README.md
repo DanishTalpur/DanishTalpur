@@ -1,4 +1,11 @@
-## Hi there 👋
+## About Me
+
+I’m **Danish**, a Machine Learning Engineer and Data Scientist from **Karachi, Pakistan**. I specialize in building intelligent systems using Python, deep learning frameworks like TensorFlow and PyTorch, data analysis tools such as pandas and NumPy, and computer vision applications with OpenCV.
+
+I’m passionate about exploring **large language models (LLMs)**, computer vision, and creating practical AI solutions that solve real-world problems. With a strong foundation in ML and software development, I enjoy designing and deploying projects that combine innovation with impact.  
+
+Always eager to **learn, collaborate, and contribute** to exciting AI and software projects.
+
 
 <!--
 **DanishTalpur/DanishTalpur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
